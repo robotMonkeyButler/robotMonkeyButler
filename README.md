@@ -6,7 +6,7 @@
 
 🎓 **About Me**
 
-- 🧑‍🎓 I am a **senior undergraduate student** at ***ShanghaiTech University***, majoring in **Computer Science**.
-- 🌍 I was a **visiting student** at ***University of Illinois Urbana-Champaign*** from **August 2024 to June 2025**.
+- I am a senior undergraduate student at ShanghaiTech University, majoring in Computer Science.
+- I was a visiting student** at University of Illinois Urbana-Champaign from Aug.2024 to Jun.2025.
 
 📫 **Contact**    `zhaoyn5@shanghaitech.edu.cn` | `yiningz9@illinois.edu`
