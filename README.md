@@ -6,7 +6,8 @@
 
 🎓 **About Me**
 
-- I am a senior undergraduate student at ShanghaiTech University, majoring in Computer Science.
+- I am currently a senior undergraduate student at ShanghaiTech University, majoring in Computer Science.
 - I was a visiting student at University of Illinois Urbana-Champaign from Aug.2024 to Jun.2025.
+- I have worked with wonderful research groups at UIUC, University of Cambridge, ShanghaiTech University and Shanghai AI Lab.
 
 📫 **Contact**    `zhaoyn5@shanghaitech.edu.cn` | `yiningz9@illinois.edu`
